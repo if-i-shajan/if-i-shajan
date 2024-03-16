@@ -6,12 +6,16 @@
 
 - 📫 How to reach me **jmifthakharul.shajan@gmail.com**
 
-<img src="https://s13.gifyu.com/images/SCQV7.gif"    
+<img src="https://s9.gifyu.com/images/SUfgh.gif"    
 
   
   
   
-     alt="https://s9.gifyu.com/images/SUfgh.gif" />
+                                                                                     
+  
+  
+  
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
