@@ -37,10 +37,9 @@
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-      ![Ifthakharul Islam Shajan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=if-i-shajan&theme=monokai&show_icons=true&hide_border=true&layout=compact)
     </a>
   </p>
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact)](https://github.com/if-i-shajan/github-readme-stats)
 </body>
 </html>
                                                            
