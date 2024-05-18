@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html>                    
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -10,7 +10,7 @@
   <h3 align="center">A passionate explorer in the realm of bits and bytes. Currently immersed in the vibrant world of <br> Computer Science and Technology.</h3>
 
   <ul>
-    <li>📔 I’m currently studying at <strong>Daffodil International University</strong></li>
+    <li>📔 I’m currently studying at <strong><a href="https://en.wikipedia.org/wiki/Daffodil_International_University" target="_blank">Daffodil International University</a></strong></li>
     <li>📫 How to reach me: <a href="mailto:jmifthakharul.shajan@gmail.com">jmifthakharul.shajan@gmail.com</a></li>
   </ul>
 
@@ -40,21 +40,5 @@
     </a>
   </p>
 </body>
+<img alt= "top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=if-i-shajan&layout=compact"/>  
 </html>
-                                                           
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=if-i-shajan)](https://github.com/if-i-shajan/github-readme-stats)                                                                                                                        
-  
-  
-  
-  
-  
-  
-  
-                      
-                      
-                      
-                      
-                      
-  
-               
-  
