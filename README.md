@@ -39,10 +39,15 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
     </a>
   </p>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact)](https://github.com/if-i-shajan/github-readme-stats)
 </body>
 </html>
                                                            
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=if-i-shajan)](https://github.com/if-i-shajan/github-readme-stats)                                                                                                                        
+  
+  
+  
+  
+  
   
   
                       
