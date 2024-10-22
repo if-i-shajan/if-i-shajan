@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
+<body>
   <h3 align="left">Hello👋,</h3>
   <ul>
     <li> I'm <strong><a href="https://sites.google.com/view/jmiishajan" target="_blank">J. M. Ifthakharul Islam Shajan</a></strong></li>
@@ -36,6 +37,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
     </a>
   </p>
+
+  <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=if-i-shajan&layout=compact"/>
 </body>
-<img alt= "top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=if-i-shajan&layout=compact"/>  
 </html>
