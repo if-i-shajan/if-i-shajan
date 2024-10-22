@@ -6,7 +6,10 @@
 </head>
 <body>
 
-  <h1 align="center">Hi 👋, I'm J. M. Ifthakharul Islam Shajan</h1>
+  <h1 align="center">Hi 👋, I'm <ul>
+  <li> <strong><a href="https://sites.google.com/view/jmiishajan" target="_blank">J. M. Ifthakharul Islam Shajan</a></strong></li>
+  
+</ul></h1>
   <h3 align="center">A passionate explorer in the realm of bits and bytes. Currently immersed in the vibrant world of <br> Computer Science and Technology.</h3>
 <ul>
   <li> <strong><a href="https://sites.google.com/view/jmiishajan" target="_blank">J. M. Ifthakharul Islam Shajan</a></strong></li>
