@@ -4,11 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body>
-
-  <h1 align="center">Hi 👋, I'm 
-  <li> <strong><a href="https://sites.google.com/view/jmiishajan" target="_blank">J. M. Ifthakharul Islam Shajan</a></strong></li>
-</h1>
+  
+  <li> Hi👋🏼 I'm <strong><a href="https://sites.google.com/view/jmiishajan" target="_blank">J. M. Ifthakharul Islam Shajan</a></strong></li>
   <h3 align="center">A passionate explorer in the realm of bits and bytes. Currently immersed in the vibrant world of <br> Computer Science and Technology.</h3>
   <ul>
     <li>📔 I’m currently studying at <strong><a href="https://en.wikipedia.org/wiki/Daffodil_International_University" target="_blank">Daffodil International University</a></strong></li>
