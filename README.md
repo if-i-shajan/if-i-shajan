@@ -7,33 +7,33 @@
 <body>
   <h3 align="left">Hello👋,</h3>
   <ul>
-    <li> I'm <strong><a href="https://sites.google.com/view/jmiishajan" target="_blank">J. M. Ifthakharul Islam Shajan</a></strong></li>
-    <li>📔 I’m currently studying at <strong><a href="https://en.wikipedia.org/wiki/Daffodil_International_University" target="_blank">Daffodil International University</a></strong></li>
-    <li>📫 How to reach me: <a href="mailto:jmifthakharul.shajan@gmail.com">jmifthakharul.shajan@gmail.com</a></li>
+    <li> I'm <strong><a href="https://sites.google.com/view/jmiishajan" target="_blank" rel="noopener noreferrer">J. M. Ifthakharul Islam Shajan</a></strong></li>
+    <li>📔 I’m currently studying at <strong><a href="https://en.wikipedia.org/wiki/Daffodil_International_University" target="_blank" rel="noopener noreferrer">Daffodil International University</a></strong></li>
+    <li>📫 How to reach me: <a href="mailto:jmifthakharul.shajan@gmail.com" target="_blank" rel="noopener noreferrer">jmifthakharul.shajan@gmail.com</a></li>
   </ul>
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-    <a href="https://www.linkedin.com/in/j-m-ifthakharul-islam-shajan-cse" target="_blank">
+    <a href="https://www.linkedin.com/in/j-m-ifthakharul-islam-shajan-cse" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-    <a href="https://stackoverflow.com/users/23343983/j-m-ifthakharul-islam-shajan" target="_blank">
+    <a href="https://stackoverflow.com/users/23343983/j-m-ifthakharul-islam-shajan" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
     </a>
-    <a href="https://www.facebook.com/ifthakharulislam.shajan" target="_blank">
+    <a href="https://www.facebook.com/ifthakharulislam.shajan" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
     </a>
   </p>
 
   <h3 align="left">Languages:</h3>
   <p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
     </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
     </a>
   </p>
