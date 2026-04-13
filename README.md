@@ -1,43 +1,29 @@
-<!DOCTYPE html>                    
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-  <h3 align="left">Hello👋,</h3>
-  <ul>
-    <li> I'm <strong><a href="https://sites.google.com/view/jmiishajan" target="_blank" rel="noopener noreferrer">J. M. Ifthakharul Islam Shajan</a></strong></li>
-    <li>📔 I’m currently studying CSE at <strong><a href="https://en.wikipedia.org/wiki/Daffodil_International_University" target="_blank" rel="noopener noreferrer">Daffodil International University</a></strong></li>
-    <li>📫 How to reach me: <a href="mailto:jmifthakharul.shajan@gmail.com" target="_blank" rel="noopener noreferrer">jmifthakharul.shajan@gmail.com</a></li>
-  </ul>
-  
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/j-m-ifthakharul-islam-shajan-cse" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://stackoverflow.com/users/23343983/j-m-ifthakharul-islam-shajan" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-    </a>
-    <a href="https://www.facebook.com/ifthakharulislam.shajan" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-    </a>
-  </p>
+<h3>Hello 👋</h3>
 
-  <h3 align="left">Languages:</h3>
-  <p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-    </a>
-  </p>
+<ul>
+  <li>I'm <b><a href="https://sites.google.com/view/jmiishajan">J. M. Ifthakharul Islam Shajan</a></b></li>
+  <li>📔 I’m currently studying CSE at <b><a href="https://en.wikipedia.org/wiki/Daffodil_International_University">Daffodil International University</a></b></li>
+  <li>📫 How to reach me: <a href="mailto:jmifthakharul.shajan@gmail.com">jmifthakharul.shajan@gmail.com</a></li>
+</ul>
 
-  <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=if-i-shajan&layout=compact"/>
-</body>
-</html>
+<h3>Connect with me:</h3>
+<p>
+  <a href="https://www.linkedin.com/in/j-m-ifthakharul-islam-shajan-cse">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+  </a>
+  <a href="https://stackoverflow.com/users/23343983/j-m-ifthakharul-islam-shajan">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30"/>
+  </a>
+  <a href="https://www.facebook.com/ifthakharulislam.shajan">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"/>
+  </a>
+</p>
+
+<h3>Languages:</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=if-i-shajan&layout=compact"/>
