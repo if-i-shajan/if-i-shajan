@@ -30,7 +30,7 @@
 <!-- 🛠️ Tools -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bash" alt="Tools"/>
+    <img src="https://skillicons.dev/icons?i=git,aws,bash,linux,ubuntu" alt="Tools"/>
   </a>
 </p>
 
