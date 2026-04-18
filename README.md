@@ -21,8 +21,13 @@
 <h3>💻 Tech Stack:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,react,mysql" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,mysql" alt="Tech Stack"/>
   </a>
+</p>
+
+<!-- Processing is not on skillicons.dev, so using a badge instead -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white"/>
 </p>
 
 <picture>
