@@ -19,9 +19,25 @@
 </p>
 
 <h3>💻 Tech Stack:</h3>
+
+<!-- 🗣️ Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,mysql,aws,bash" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css" alt="Languages"/>
+  </a>
+</p>
+
+<!-- 🛠️ Tools -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bash" alt="Tools"/>
+  </a>
+</p>
+
+<!-- 🧩 Frameworks & DB -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,mysql" alt="Frameworks and DB"/>
   </a>
 </p>
 
