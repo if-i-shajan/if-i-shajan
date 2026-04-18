@@ -21,13 +21,14 @@
 <h3>💻 Tech Stack:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,mysql" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,mysql,aws,bash" alt="Tech Stack"/>
   </a>
 </p>
 
-<!-- Processing is not on skillicons.dev, so using a badge instead -->
+<!-- Processing & Cisco are not on skillicons.dev, using badges instead -->
 <p align="center">
   <img src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 <picture>
